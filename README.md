@@ -1,6 +1,3 @@
-# JABergerMessenger00
-First repository for college courses
-
 # I am **Justin Aerogwin Berger-Messenger**
 ## Currently pursuing a **Interdisciplinary Studies** degree
 ## Minor in Comp. Sci. and TESOL
