@@ -8,6 +8,11 @@
 ##### Links to socials/content in Bio
 
 <!-- Here are some ideas to get you started:
+
+https://www.markdownguide.org/basic-syntax/
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
